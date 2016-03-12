@@ -93,3 +93,6 @@ def getMaxSkewN(str1, n):														#function which gets the max skew from 1 
 		if max < temp:
 			max = temp
 	return max																	#return value
+	
+	
+	
